@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9c523f20c7b05402f90f1b256bee7fa0
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: f141717c1baec47a4b0c4c021538f617
+  - enabled: 1
+    path: Assets/Scenes/Clock.unity
+    guid: f586ec53645174ef293d8564fedbd44c
+  - enabled: 1
+    path: Assets/Scenes/Starter.unity
+    guid: f69c6ea77920b4d0ca3977bf0a5e2b2a
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 098dffa5c4addbe45bd97262b5dbbfe7
+  - enabled: 1
+    path: Assets/Scenes/oda.unity
+    guid: 2154628884a72402f8b63b4c8aaa3aa6
+  - enabled: 1
+    path: Assets/Scenes/picmain.unity
+    guid: de784358c6d3244c6a6d870d8196ac48
+  - enabled: 1
+    path: Assets/Scenes/level 2.unity
+    guid: d237a6a0113da45f8addda70269e64d0
+  - enabled: 1
+    path: Assets/Scenes/picClock.unity
+    guid: 17e63eaaa2b014a90a41b31cf09bd45d
+  - enabled: 1
+    path: Assets/Scenes/Starter 2.unity
+    guid: 070e0c7b3f4c04e42a68308540cc8094
+  - enabled: 1
+    path: Assets/Scenes/main2.unity
+    guid: 82f040d1d9305480298f9c44465d38c9
+  - enabled: 1
+    path: Assets/Scenes/oda2.unity
+    guid: 0925e0c9a99734416bf96fc037220c3a
+  - enabled: 1
+    path: Assets/Scenes/picmain2.unity
+    guid: 5479492fb449d408aa4b4c0079664ce1
+  - enabled: 1
+    path: Assets/Scenes/lost.unity
+    guid: 62df109a1e7134a9680e80d6151e6cca
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

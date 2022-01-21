@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "640412563831-g31v286rbh6i29mo76nbqg11916qf5f8.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvKpr4Q_t9_CskR7YfcXo6kBwAoKE3iY"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:640412563831:ios:92016cb3bbe4d03c9a0972", 
+        "android_client_info": {
+          "package_name": "com.NeilGoyal.MemoryMetrics"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "memory-metrics-51086329.appspot.com", 
+    "project_id": "memory-metrics-51086329", 
+    "firebase_url": "https://memory-metrics-51086329-default-rtdb.asia-southeast1.firebasedatabase.app/", 
+    "project_number": "640412563831"
+  }
+}

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c05a1f9881c0c419eaad93364a9fd1f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - randomImage1: {instanceID: 0}
+  - randomImage2: {instanceID: 0}
+  - randomImage3: {instanceID: 0}
+  - randomImage4: {instanceID: 0}
+  - randomImage5: {instanceID: 0}
+  - s0: {fileID: 21300000, guid: 039880f74461f4e2e9f91d1845ff22c2, type: 3}
+  - s1: {fileID: 21300000, guid: fa04cbbbca40847aba084a2a4656ea74, type: 3}
+  - s2: {fileID: 21300000, guid: a71444f78b5c14b23aa4b5a09167144f, type: 3}
+  - s3: {fileID: 21300000, guid: 0a8357ac6c88b47888e484cec3389d90, type: 3}
+  - s4: {fileID: 21300000, guid: bee466f86c97441f483cbc60dc4da7fe, type: 3}
+  - s5: {fileID: 21300000, guid: c32b802fc5201488ba02d508c0085033, type: 3}
+  - s6: {fileID: 21300000, guid: dbc2fa22ccd364fbd9089c9e872c9ee7, type: 3}
+  - s7: {fileID: 21300000, guid: 7002e91fba9cd4b05957c6427c12b482, type: 3}
+  - s8: {fileID: 21300000, guid: 6019444bdee1447ee8b2f007196c9579, type: 3}
+  - s9: {fileID: 21300000, guid: 333ed0372ffe94417945cdc3f1160461, type: 3}
+  - s10: {fileID: 21300000, guid: 4d47b6db4274f408b9f7ab559999dd74, type: 3}
+  - s11: {fileID: 21300000, guid: fa6ec5d10d4b145d9b775ecb994fae08, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
